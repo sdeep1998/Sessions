@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sessions</string>
+    <string name="txt_android_components">Android Components</string>
+    <string name="btn_activity">Activity</string>
+    <string name="btn_services">Services</string>
+    <string name="btn_receivers">Broadcast Receivers</string>
+    <string name="btn_content_provider">Content Providers</string>
+
+
+    <string name="btn_bind_services">Bind - Services</string>
+    <string name="btn_unbind_services">UnBind - Services</string>
+
+
+    <string name="btn_start_services">Start - Services</string>
+    <string name="btn_stop_services">Stop - Services</string>
+
+    <string name="btn_foreground_services_start">Start Fore-ground Services</string>
+    <string name="btn_foreground_services_stop">Stop Fore-ground Services</string>
+
+    <string name="txt_normal_services">Normal - Services</string>
+    <string name="txt_bind_services">Bind Services</string>
+    <string name="txt_foreground_services">Fore-ground Services</string>
+
+</resources>
+
+
+
